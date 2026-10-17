@@ -9,7 +9,7 @@ I'm building **[Courtat · كورتات](https://courtat.io)** — an Arabic-fir
 for the people bringing padel communities together.
 
 <a href="https://courtat.io">
-  <img src="assets/courtat-padel-court.svg" alt="Animated Courtat padel rally: four players exchanging the ball across the court" width="680" />
+  <img src="assets/courtat-padel-rally.gif" alt="Animated Courtat padel rally: four players exchanging the ball across the court" width="680" />
 </a>
 
 **[Explore Courtat.io ↗](https://courtat.io)**
