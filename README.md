@@ -9,6 +9,10 @@
 
 [![Explore Courtat](https://img.shields.io/badge/Explore_Courtat-courtat.io-3F55E8?style=for-the-badge)](https://courtat.io)
 
+<a href="https://courtat.io">
+  <img src="assets/courtat-padel-court.svg" alt="Courtat's isometric padel court with four players and a ball" width="640" />
+</a>
+
 </div>
 
 ---
