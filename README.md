@@ -2,16 +2,12 @@
 
 # Hi, I'm Subhi 👋
 
-### Building [Courtat · كورتات](https://courtat.io)
+### Building a passion project ==> [Courtat · كورتات](https://courtat.io)
 
 **Your community. Better organisation.**  
 **مجتمعك، بتنظيم أفضل.**
 
 [![Explore Courtat](https://img.shields.io/badge/Explore_Courtat-courtat.io-3F55E8?style=for-the-badge)](https://courtat.io)
-
-<a href="https://courtat.io">
-  <img src="assets/courtat-rally-brand.gif" alt="Animated Courtat padel rally: four players exchanging the ball across the court" width="440" />
-</a>
 
 </div>
 
