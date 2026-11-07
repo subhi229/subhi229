@@ -83,7 +83,7 @@ Interested in building something useful for sports communities, biosecurity and 
 
 ![Contribution calendar](./metrics.calendar.svg)
 
-![Repository language breakdown](./metrics.languages.svg)
+![Technologies I build with](./assets/technology-stack.svg)
 
-*Public repository languages, including AI-assisted development. Private Courtat code is excluded.*
+*The calendar uses publicly visible contributions. The technology stack is curated, not a usage measurement.*
 <!-- PROFILE-METRICS:END -->
