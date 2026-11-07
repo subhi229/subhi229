@@ -1,4 +1,4 @@
-# Hi there, I am Subhi Abuhussain! 👋
+# Hi there, I am Subhi ! 👋
 
 ## About Me 🚀
 
