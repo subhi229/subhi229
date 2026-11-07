@@ -41,29 +41,6 @@ jobs:
           retries: 2
           retries_delay: 15
 
-      - name: Generate repository language breakdown
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: subhi229
-          filename: metrics.languages.svg
-          base: ""
-          template: classic
-          config_timezone: Asia/Riyadh
-          config_animations: "no"
-          repositories_affiliations: owner
-          repositories_forks: "no"
-          plugin_languages: "yes"
-          plugin_languages_limit: 8
-          plugin_languages_details: percentage
-          plugin_languages_sections: most-used
-          # Read publicly accessible language metadata only; do not clone source.
-          plugin_languages_indepth: "no"
-          plugins_errors_fatal: "yes"
-          retries: 2
-          retries_delay: 15
-
       - name: Check out the generated cards and latest README
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
@@ -76,7 +53,7 @@ jobs:
           import re
           import xml.etree.ElementTree as ET
 
-          for filename in ("metrics.calendar.svg", "metrics.languages.svg"):
+          for filename in ("metrics.calendar.svg", "assets/technology-stack.svg"):
               root = ET.parse(filename).getroot()
               if root.tag != "{http://www.w3.org/2000/svg}svg":
                   raise SystemExit(f"{filename} is not an SVG image")
@@ -91,9 +68,9 @@ jobs:
               "",
               "![Contribution calendar](./metrics.calendar.svg)",
               "",
-              "![Repository language breakdown](./metrics.languages.svg)",
+              "![Technologies I build with](./assets/technology-stack.svg)",
               "",
-              "*Public repository languages, including AI-assisted development. Private Courtat code is excluded.*",
+              "*The calendar uses publicly visible contributions. The technology stack is curated, not a usage measurement.*",
               end,
           ])
           if start in text or end in text:
