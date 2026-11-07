@@ -77,3 +77,13 @@ My focus is connecting technical information with practical decisions in the fie
 - **[Courtat](https://courtat.io)**
 
 Interested in building something useful for sports communities, biosecurity and food safety, or B2B operations? Let us connect.
+
+<!-- PROFILE-METRICS:START -->
+### GitHub Activity
+
+![Contribution calendar](./metrics.calendar.svg)
+
+![Repository language breakdown](./metrics.languages.svg)
+
+*Public repository languages, including AI-assisted development. Private Courtat code is excluded.*
+<!-- PROFILE-METRICS:END -->
