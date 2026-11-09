@@ -8,7 +8,7 @@ Based in **Jeddah, Saudi Arabia**, I lead business development for **Reza Animal
 
 My work spans commercial strategy, speciality chemicals applications, equipment and systems design, and operational improvement. I enjoy translating field requirements into practical solutions, whether that means a chemical dosing station, an application system, or a software product.
 
-Alongside my commercial work, I founded and built **Courtat**, a platform that helps sports community organizers manage their sessions and spend less time on administration.
+Alongside my commercial work, I built **Courtat**, a platform that helps sports community organizers manage their sessions and spend less time on administration.
 
 My background combines a **bachelor’s degree in Food Technology** with an **MBA from the University of Manchester**.
 
