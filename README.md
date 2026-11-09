@@ -4,18 +4,18 @@
 
 I work at the intersection of **business development, biosecurity and food safety, and technology**.
 
-Based in **Jeddah, Saudi Arabia**, I lead business development for **Reza Animal Health**, working with poultry producers across the GCC and Middle East on biosecurity and processing hygiene.
+Based in **Jeddah, Saudi Arabia**, I lead business development for **Reza Animal Health**, working with food producers across the GCC and Middle East on biosecurity and food processing hygiene.
 
-My work spans commercial strategy, equipment and systems design, and operational improvement. I enjoy translating field requirements into practical solutions, whether that means a chemical dosing station, a cleaning system, or a software product.
+My work spans commercial strategy, speciality chemicals applications, equipment and systems design, and operational improvement. I enjoy translating field requirements into practical solutions, whether that means a chemical dosing station, an application system, or a software product.
 
 Alongside my commercial work, I founded and built **Courtat**, a platform that helps sports community organizers manage their sessions and spend less time on administration.
 
-My background combines a **bachelor’s degree in Food Technology** with a **Global MBA from the University of Manchester**.
+My background combines a **bachelor’s degree in Food Technology** with an **MBA from the University of Manchester**.
 
 - 🌱 Currently learning: **React Native, mobile app development, and AI-assisted software delivery**
 - 🔭 Working on: **Courtat, hygiene equipment concepts, and tools for commercial decision-making**
 - 🌍 Languages: **Arabic and English**
-- 🤝 Interested in: **B2B SaaS, sports technology, biosecurity and food safety, and workflow automation**
+- 🤝 Interested in: **B2B SaaS, workflow automation, agritech, sports technology**
 - ⚡ Fun fact: **Playing social padel helped inspire the product I am now building.**
 
 ## My Skills 🧠
@@ -33,7 +33,7 @@ My background combines a **bachelor’s degree in Food Technology** with a **Glo
 
 **Building a product. Developing the technical skills to take it further.**
 
-I founded and built Courtat from scratch to help sports communities manage their sessions. What began as a Replit prototype became a practical education in software development, database design, automation, and production operations.
+I built Courtat to help sports communities manage their sessions. What began as a Replit prototype became a practical education in software development, database design, automation, and production operations.
 
 Using Codex and other AI coding tools, I translated organizer requirements into working software, investigated failures, refined the architecture, and tested changes against real workflows.
 
